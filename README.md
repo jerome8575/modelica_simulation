@@ -1,0 +1,5 @@
+- Figures contains a plot of rate of change of temperature based on HVAC control and outdoor air temperature.
+- Results contains csv data of bang-bang controller and optimization controller on jan 2 2021.
+- sim_data contains 2 months of data from jan 2021 to march 2021
+- visualization contains temp_plots.py to show results on streamlit dashboard. Command: python3 -m streamlit run visualization/temp_plots.py
+- run_opt_modelica.py is to run the simulation with our controller.
